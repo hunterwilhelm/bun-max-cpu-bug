@@ -24,6 +24,11 @@ bun run --inspect-wait=localhost:6499/debugger --watch index.ts
 ```
 or
 ```bash
-bun run dev
+bun run inspect-wait
 # then attach to the debugger in VSCode
+```
+or
+```bash
+bun run inspect
+# then attach to the debugger in https://debug.bun.sh/#localhost:6499/debugger
 ```
