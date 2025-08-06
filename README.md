@@ -1,12 +1,14 @@
 # bun-max-cpu
 
+What is the issue?
+
+Bun will consistently use 100% when debugging.
+
 To reproduce the issue:
 
 ```bash
 bun install
 ```
-
-set a debug point on the console.log("hello") line
 
 To run the script:
 
