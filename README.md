@@ -12,7 +12,7 @@ bun install
 
 To run the script:
 
-# Run the script with VSCode debugger
+#### Run the script with VSCode debugger
 
 1. Go to Run and Debug
 1. Click on the "Launch Bun Debugger" configuration
