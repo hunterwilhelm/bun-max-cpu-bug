@@ -4,6 +4,8 @@ What is the issue?
 
 Bun will consistently use 100% when debugging.
 
+Tracking the issue here: https://github.com/oven-sh/bun/issues/21654
+
 To reproduce the issue:
 
 ```bash
